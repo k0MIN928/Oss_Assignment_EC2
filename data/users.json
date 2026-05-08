@@ -1,0 +1,16 @@
+{
+  "users": {
+    "admin": {
+      "password": "admin123",
+      "name": "관리자"
+    },
+    "kwon": {
+      "password": "1234",
+      "name": "권영민"
+    },
+    "guest": {
+      "password": "guest",
+      "name": "게스트"
+    }
+  }
+}
